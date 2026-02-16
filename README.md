@@ -19,5 +19,5 @@ This project is a practical application of DOM manipulation and state management
 ## 📸 Demo
 ![Project Screenshot](https://github.com/user-attachments/assets/1ea18b1f-a56c-42d9-a2b5-203148a8ee34)
 
-> **Live Demo:** [Click here to view the project](https://rodrigoams.github.io/todo-list-app/)
+> **Live Demo:** [Click here to view the project](https://rodrigoams.github.io/todo-list-app/public/index.html)
 
