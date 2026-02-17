@@ -1,4 +1,4 @@
-# 📝 To-Do List Application
+# 📝 Simple Task Manager
 
 A sleek and functional task management tool built to demonstrate solid foundations in **Vanilla JavaScript**, **semantic HTML5**, and **modern CSS3**.
 
