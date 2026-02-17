@@ -18,3 +18,6 @@ This project is a practical application of DOM manipulation and state management
 
 ## 📸 Demo
 
+![Project Screenshot]()
+
+> **Live Demo:** []
