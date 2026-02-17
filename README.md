@@ -17,6 +17,6 @@ This project is a practical application of DOM manipulation and state management
 * **JavaScript (ES6+)**: Functional logic, event listeners, and local storage integration.
 
 ## 📸 Demo
-![Project Screenshot](COLOQUE_O_LINK_DA_IMAGEM_AQUI)
+![Project Screenshot](https://github.com/user-attachments/assets/1ea18b1f-a56c-42d9-a2b5-203148a8ee34)
 
-> **Live Demo:** [Link para o seu projeto no Vercel/GitHub Pages]
+> **Live Demo:** []
